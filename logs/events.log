@@ -1,0 +1,7 @@
+{
+    "cookie": "sample_cookie_value",
+    "location": "https://target-site.com/vulnerable-page",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0...",
+    "timestamp": "2024-11-13 10:00:00"
+}
